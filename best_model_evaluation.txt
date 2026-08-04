@@ -1,0 +1,5 @@
+Best Model: XGBoost
+Test Set Samples: 4128
+Mean Absolute Error (MAE): 0.3104
+Root Mean Squared Error (RMSE): 0.4695
+R-squared (R2) Score: 0.8318
